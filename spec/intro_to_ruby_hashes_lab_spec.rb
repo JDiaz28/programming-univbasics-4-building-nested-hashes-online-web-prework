@@ -110,7 +110,7 @@ describe "We can create complex, nested Hashes by implementing four methods:" do
 end
 
 base_hash = { 
-  keys.count:(1)
+  keys.count => (1)
 }
 
 monopoly_with_second_tier = [
