@@ -110,7 +110,7 @@ describe "We can create complex, nested Hashes by implementing four methods:" do
 end
 
 base_hash = { 
-  keys: [1] }
+  has_key: [1] }
  
 
 
