@@ -109,7 +109,7 @@ describe "We can create complex, nested Hashes by implementing four methods:" do
   end
 end
 
-base_hash = { 
+base_hash = keys.count { 
   keys.count => (1)
 }
 
