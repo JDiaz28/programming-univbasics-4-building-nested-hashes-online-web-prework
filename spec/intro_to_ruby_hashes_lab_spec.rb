@@ -109,7 +109,7 @@ describe "We can create complex, nested Hashes by implementing four methods:" do
   end
 end
 
-base_hash.keys.count = 1
+base_hash.keys = 1
 
 monopoly_with_second_tier = [
   :railroads => {} [:pieces] = 4]
