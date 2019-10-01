@@ -112,7 +112,7 @@ end
 base_hash = keys.count { 
   keys.count }
   (1)
-}
+
 
 monopoly_with_second_tier = [
   :railroads => {} [:pieces] = 4]
